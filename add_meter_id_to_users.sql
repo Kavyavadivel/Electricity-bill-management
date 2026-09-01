@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN meter_id VARCHAR(50) AFTER phone; 

@@ -1,0 +1,1 @@
+ALTER TABLE bills ADD COLUMN meter_id VARCHAR(50) AFTER user_id; 
